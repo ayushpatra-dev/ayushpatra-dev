@@ -1,16 +1,22 @@
-### Hi, I'm Ayush Patra 👋 From Moyna to Google!
+# Hi, I'm Ayush Patra 👋
+### Moyna to Google — CRACK in 2034 🚀
 
-<img src="https://github.com/ayushpatra-dev.png" width="100" style="border-radius:50%">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=14+Year+Old+Coder+from+Moyna%2C+WB;Class+8+Student+%7C+Future+Google+Engineer;Building+in+Public+Every+Day;Mission%3A+Google+Crack+2034" alt="Typing SVG" />
 
-> Class 8 | 14 Years Old | Future Google Engineer
+---
 
-- 🔥 Day 01 Completed: Python Journey Started
-- 🌱 Learning: Python + GitHub (30 Days Challenge)
-- 📍 From: Moyna, Purba Medinipur, West Bengal
-- 🎯 Dream: Crack Google in 2030
+### ⚡ About Me
 
-### My Progress
-- [x] Day 01 - print()
-- [ ] Day 02 - Coming tomorrow
+```py
+class Ayush:
+    age = 14
+    location = "Moyna, Purba Medinipur, WB 🇮🇳"
+    school = "Class 8"
+    mission = "Google Engineer by 2034"
+    current_focus = ["Python", "GitHub", "Problem Solving"]
+    
+    def say_hi(self):
+        print("Moyna theke Google jabo-i!")
 
-`print("Moyna se Google tak!")`
+me = Ayush()
+me.say_hi()
