@@ -1,10 +1,7 @@
-ayush patra — 14, west bengal
+### Hi, I'm Ayush Patra 👋
+Class 8 | From Moyna, West Bengal to Google 🚀
 
-learning to build things that scale.
-currently deep into python.
-
-class of 2031.
-
-<!--
-building in public from moyna.
--->
+- 🔭 I’m currently learning Python - Day 01 done!
+- 🌱 Goal: 30 Days of Code Challenge
+- 💻 My Playground: python-playground repo
+- 🎯 Dream: Software Engineer at Google
